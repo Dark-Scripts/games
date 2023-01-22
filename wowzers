@@ -1,0 +1,9 @@
+if game.PlaceId == 301549746 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/counterblox/main/script"))() -- CounterBlox
+elseif game.PlaceId == 3956818381 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2"))() -- Arsenal
+end
+
+-- Everything is Obfuscated
+-- More Games Coming Soon
+-- Made By DΔRKぷ#0960
