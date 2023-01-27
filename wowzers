@@ -1,7 +1,7 @@
 if game.PlaceId == 301549746 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/counterblox/main/script"))() -- CounterBlox
 elseif game.PlaceId == 286090429 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2"))() -- Arsenal
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/lolz"))() -- Arsenal
 end
 
 -- Everything is Obfuscated
